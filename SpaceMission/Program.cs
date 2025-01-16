@@ -9,5 +9,7 @@ public class Program : ProgramMethods
     public static void Main()
     {
         StartGame();
+
+        // Game will be implemented
     }
 }
