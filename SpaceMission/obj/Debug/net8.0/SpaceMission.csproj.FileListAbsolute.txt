@@ -19,3 +19,4 @@
 /Users/kaanozaydin/Desktop/SpaceMission/SpaceMission/obj/Debug/net8.0/SpaceMission.pdb
 /Users/kaanozaydin/Desktop/SpaceMission/SpaceMission/obj/Debug/net8.0/SpaceMission.genruntimeconfig.cache
 /Users/kaanozaydin/Desktop/SpaceMission/SpaceMission/obj/Debug/net8.0/ref/SpaceMission.dll
+/Users/kaanozaydin/Desktop/SpaceMission/SpaceMission/obj/Debug/net8.0/SpaceMission.sourcelink.json
